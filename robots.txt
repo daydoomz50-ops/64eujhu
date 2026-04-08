@@ -1,0 +1,6 @@
+# Off365 V4 2020 by Ex-Robotos
+# Email: ex.robotos.official@gmail.com
+# ICQ: @Ex.Robotos
+# Facebook: facebook.com/Ex.Robotos
+User-Agent: *
+Disallow: /
